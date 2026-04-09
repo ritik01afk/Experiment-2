@@ -1,0 +1,47 @@
+body { 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+    background: black; 
+    color: white; 
+} 
+/* Header */ 
+header { 
+    text-align: center; 
+    padding: 20px; 
+    background: #000000; 
+    border-bottom: 2px solid rgb(194, 80, 80); 
+} 
+header h1 { 
+    color: red; 
+    margin: 0; 
+} 
+header p { 
+    margin: 5px 0 0; 
+} 
+/* Sections */ 
+.box { 
+    margin: 20px; 
+    padding: 20px; 
+    background: #111; 
+    border-left: 5px solid rgb(255, 0, 0); 
+    border-radius: 8px; 
+} 
+/* Headings */ 
+h2 { 
+    color: rgb(184, 41, 41); 
+} 
+/* List */ 
+ul { 
+    padding-left: 20px; 
+} 
+li { 
+    margin: 8px 0; 
+} 
+/* Footer */ 
+footer { 
+    text-align: center; 
+    padding: 15px; 
+    background: #111; 
+    border-top: 2px solid red; 
+    color: rgb(155, 32, 32); 
+} 
